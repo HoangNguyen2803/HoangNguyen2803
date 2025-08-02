@@ -10,7 +10,7 @@
 - Công cụ: Git, GitHub
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/hn_Ideanova/?actingBusinessId=893120307261424532) 
+[![LinkedIn](https://www.linkedin.com/in/hoang-nguyen-076310356/)](https://linkedin.com/in/https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/hn_Ideanova) 
 
 ## 📫 Liên hệ
 - Email: `nguyenhaphihoang2006@gmail.com`
