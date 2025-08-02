@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Xin chào! Tôi là Hoàng Nguyễn
 
-<!--
-**HoangNguyen2803/HoangNguyen2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 sinh viên ngành Công nghệ thông tin, chuyên ngành An ninh mạng.  
+🚀 Đang học và xây dựng các dự án nhỏ để nâng cao kỹ năng.  
+💡 Hiện tại đang tìm hiểu thêm về Git, GitHub, Python, và Web.
+💻 Mình có niềm đam mê với công nghệ, đặc biệt là lập trình, bảo mật hệ thống và an toàn thông tin.
+## 🛠️ Kỹ năng
+- Ngôn ngữ: C++, Python, HTML, CSS, Java,Js (cơ bản)
+- IDE: Dev-C++, VS Code
+- Công cụ: Git, GitHub
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Liên hệ
+- Email: `nguyenhaphihoang2006@gmail.com`
+- GitHub: https://github.com/HoangNguyen2803
