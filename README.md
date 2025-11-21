@@ -1,7 +1,7 @@
-# 👋 Xin chào! Tôi là Hoàng Nguyễn
+# 👋 Xin chào! Tôi là Hoàng
 🎓 sinh viên ngành Công nghệ thông tin, chuyên ngành An ninh mạng.  
 🚀 Đang học và xây dựng các dự án nhỏ để nâng cao kỹ năng.  
-💡 Hiện tại đang tìm hiểu thêm về Git, GitHub, Python, và Web.
+💡 Hiện tại đang tìm hiểu thêm về Git, GitHub, Python, và Web...
 💻 Mình có niềm đam mê với công nghệ, đặc biệt là lập trình, bảo mật hệ thống và an toàn thông tin.
 
 ## 🛠️ Kỹ năng
