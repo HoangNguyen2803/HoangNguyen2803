@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  # 1. Target Application: OWASP Juice Shop
+  juice-shop:
+    image: bkimminich/juice-shop:v16.0.0
+    container_name: juice-shop-target
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=unsafe # Môi trường không an toàn để kích hoạt đủ lỗ hổng
+    networks:
+      - sec-lab-net
+    restart: always
+
+  # 2. Tunneling Service: ngrok
+  ngrok:
+    image: ngrok/ngrok:latest
+    container_name: ngrok-tunnel
+    # Lệnh forward traffic vào service 'juice-shop' nội bộ qua cổng 3000
+    command: "http juice-shop:3000"
+    environment:
+      - NGROK_AUTHTOKEN=${NGROK_TOKEN}
+    ports:
+      - "4040:4040" # Giao diện Web UI để lấy URL và kiểm tra log request
+    networks:
+      - sec-lab-net
+    depends_on:
+      - juice-shop
+
+networks:
+  sec-lab-net:
+    driver: bridge

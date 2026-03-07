@@ -1,0 +1,25 @@
+app:
+  applicationId: 4bb61a7d-8c6b-48aa-9ff5-53c94562eb32
+  env: Development
+  host: http://juice-shop:3000
+
+authentication:
+  loggedInPaths:
+    - "/#/privacy-security/change-password"
+  loggedOutPaths:
+    - "/#/login"
+  cookieAuthorization:
+    cookieNames:
+      - "token"
+    loginPath: "/rest/user/login"
+    loginPagePath: "/#/login"
+    usernamePassword:
+      type: JSON
+      usernameField: "email"
+      passwordField: "password"
+      scanUsername: "admin@juice-sh.op"
+      scanPassword: "admin123"
+
+spider:
+  maxDurationMinutes: 5
+  ajax: true
