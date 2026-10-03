@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-👋 Tôi là **Hoàng**, sinh viên năm hai ngành **Công nghệ Thông tin**, chuyên ngành **An ninh mạng** tại **Trường Đại học Gia Định (GDU)**.
+👋 Tôi là **Hoàng**, sinh viên ngành **Công nghệ Thông tin**, chuyên ngành **An ninh mạng** tại **Trường Đại học Gia Định (GDU)**.
 
 💻 Tôi đam mê công nghệ, lập trình, an ninh mạng, bảo mật hệ thống và các hệ thống thông minh. Tôi thích học hỏi thông qua việc **xây dựng dự án thực tế, thử nghiệm công nghệ mới và giải quyết các bài toán thực tiễn**.
 
