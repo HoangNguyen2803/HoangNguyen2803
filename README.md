@@ -144,6 +144,21 @@ Thực hành cấu hình hạ tầng mạng, quản trị hệ thống và kiể
 ---
 
 ## 💻 Tech Stack
+## 🌐 Socials
+
+<p align="center">
+
+<a href="https://linkedin.com/in/phi-hoang-nguyen-ha-076310356">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://youtube.com/@TechHub_Security">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="mailto:nguyenhaphihoang2803@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 ### 👨‍💻 Programming Languages
 
