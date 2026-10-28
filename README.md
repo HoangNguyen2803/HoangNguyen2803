@@ -123,20 +123,8 @@ Thiết kế, triển khai và tối ưu các **dự án công nghệ có tính 
 
 <p align="center">
 
-<a href="https://facebook.com/Hoangnguyen28032006">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
-<a href="https://instagram.com/hoangnguyen12241">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
 <a href="https://linkedin.com/in/phi-hoang-nguyen-ha-076310356">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.tiktok.com/@hoang.12388">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 
 <a href="https://youtube.com/@TechHub_Security">
